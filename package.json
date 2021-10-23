@@ -1,0 +1,23 @@
+{
+  "name": "taskinator-desktop",
+  "version": "0.0.1",
+  "description": "A ported version of Taskinator just for desktop using Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sloansta/taskinator-desktop.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sloansta/taskinator-desktop/issues"
+  },
+  "homepage": "https://github.com/Sloansta/taskinator-desktop#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
